@@ -29,24 +29,3 @@ customize each of them according to your needs.
 # About Me
 Hello, my name is Shina. I am a Cloud & DevOps Engineer | Site Reliability Engineer | Automation & Infrastructure Expert. I enjoy making teeny tiny applications in
 my leisure time and this is one of them. Now that my wedding is over, I am open-sourcing the project. Hope you like it!
-
-# Sponsors
-Proudly sponsored by these awesome apps. Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://x.com/rampatra_)]
-
-<table>
-    <tr>
-        <td>
-            <a href="https://presentifyapp.com/" target="_blank"><img src="https://presentifyapp.com/assets/img/presentify/app-icon-512.png" width="150" height="150"></a>
-        </td>
-        <td>
-            <a href="https://facescreenapp.com/" target="_blank"><img src="https://github.com/user-attachments/assets/b251b413-ccc4-48f1-a316-c2c2a71f959e" width="150" height="150"></a>
-        </td>
-        <td>
-            <a href="https://todobarapp.com/" target="_blank"><img src="https://todobarapp.com/assets/img/todobar/app-icon-512.png" width="150" height="150"></a>
-        </td>
-        <td>
-            <a href="https://simplefillapp.com/" target="_blank"><img src="https://github.com/user-attachments/assets/6c575d9c-b65b-4ce7-a468-30f74cfedf18" width="150" height="150"></a>
-        </td>
-    </tr>
-</table>
-
